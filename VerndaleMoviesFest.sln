@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32922.545
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VerndaleMoviesFest.DAL", "VerndaleMoviesFest.DAL\VerndaleMoviesFest.DAL.csproj", "{398FC16D-39DF-425F-9FB0-CB8A926C396E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VerndaleMoviesFest.API", "VerndaleMoviesFest.API\VerndaleMoviesFest.API.csproj", "{D4595D35-2215-490B-BDE5-C4B6CA33DE10}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{398FC16D-39DF-425F-9FB0-CB8A926C396E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{398FC16D-39DF-425F-9FB0-CB8A926C396E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{398FC16D-39DF-425F-9FB0-CB8A926C396E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{398FC16D-39DF-425F-9FB0-CB8A926C396E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D4595D35-2215-490B-BDE5-C4B6CA33DE10}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4595D35-2215-490B-BDE5-C4B6CA33DE10}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D4595D35-2215-490B-BDE5-C4B6CA33DE10}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4595D35-2215-490B-BDE5-C4B6CA33DE10}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C2E43C87-2AF8-41F4-ADEE-B49F367E4782}
+	EndGlobalSection
+EndGlobal
